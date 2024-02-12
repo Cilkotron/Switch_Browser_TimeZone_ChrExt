@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "latest": "^0.2.0",
+    "node": "^21.6.1",
+    "puppeteer": "^22.0.0"
+  }
+}
